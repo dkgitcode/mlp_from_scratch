@@ -221,4 +221,4 @@ The norm of the gradients is calculated using the L2 norm. The L2 norm of a vect
 
 ## Results
 
-After training this model on 100 epochs, with a batch size of 64, and an initial learning rate of 0.01, we achieve around an 84% accuracy on the test set.
+After training this model on 10 epochs, with a batch size of 64, and an initial learning rate of 0.01, we achieve around an 84% accuracy on the test set.
